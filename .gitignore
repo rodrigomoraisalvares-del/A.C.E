@@ -1,0 +1,19 @@
+# Ambientes virtuais Python
+.venv/
+.venv312/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais
+.vscode/
+
+# Segredos e variáveis de ambiente
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
